@@ -8,7 +8,7 @@ public class MoveCharacter : MonoBehaviour
 {
     //link for character -> https://stackoverflow.com/questions/45569580/sprite-sheet-animation-with-arrow-keys
     //link for gem -> https://www.deviantart.com/bigbark24/art/Diamond-sprite-sheet-759155287
-    //link for tiles -> https://cpictures.homes/grass-tile-game
+    //link for tiles -> https://opengameart.org/content/outdoor-tiles-again
     Animator animator; //to talk to the animator
 
     // Start is called before the first frame update
