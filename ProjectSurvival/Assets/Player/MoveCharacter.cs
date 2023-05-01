@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor;
 using UnityEngine;
 //using UnityEngine.Windows;
 //using UnityEngine.Windows;
@@ -11,6 +12,7 @@ public class MoveCharacter : MonoBehaviour
     //link for tiles -> https://opengameart.org/content/outdoor-tiles-again
     //link for tree -> https://opengameart.org/content/gnarled-tree
     Animator animator; //to talk to the animator
+    public int speed = 10;
 
     // Start is called before the first frame update
     void Start()
@@ -48,7 +50,7 @@ public class MoveCharacter : MonoBehaviour
         //do for all dorection
         //then move the guy just like you didfor animation 1.
 
-        transform.position += new Vector3(val_x, val_y, 0).normalized * Time.deltaTime;
+        transform.position += new Vector3(val_x, val_y, 0).normalized *speed * Time.deltaTime;
 
         //animator.StopPlayback();
     }
