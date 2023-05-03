@@ -13,7 +13,11 @@ public class MoveCharacter : MonoBehaviour
     //link for tree -> https://opengameart.org/content/gnarled-tree
     //link for level 2 sprite sheet -> https://opengameart.org/content/sci-fi-interior-tiles
     Animator animator; //to talk to the animator
-    public int speed = 10;
+    public Rigidbody2D rb;
+    public float moveSpeed;
+    public Vector2 forceToApply;
+    public Vector2 PlayerInput;
+    public float forceDamping;
 
     // Start is called before the first frame update
     void Start()
@@ -25,35 +29,22 @@ public class MoveCharacter : MonoBehaviour
     void Update()
     {
         animator.speed = 1;
-        float val_x = Input.GetAxis("Horizontal");
-        float val_y = Input.GetAxis("Vertical");
+        //.normalized is to make sure movements in all directions are the same
+        PlayerInput = new Vector2(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical")).normalized;
 
-        //if val_x is less than 0, then set direction to 3
-        if (val_x < 0)
-        {
-            animator.SetInteger("direction", (int)MoveDirection.LEFT);
-        }
-        //if val_x is more than 0, then set direction to 4
-        if (val_x > 0)
-        {
-            animator.SetInteger("direction", (int)MoveDirection.RIGHT);
-        }
-        //if val_y is less than 0, then set direction to 2
-        if (val_y < 0)
-        {
-            animator.SetInteger("direction", (int)MoveDirection.DOWN);
-        }
-        //if val_y is more than 0, then set direction to 1
-        if (val_y > 0)
-        {
-            animator.SetInteger("direction", (int)MoveDirection.UP);
-        }
-        //do for all dorection
-        //then move the guy just like you didfor animation 1.
+       
+    }
 
-        transform.position += new Vector3(val_x, val_y, 0).normalized *speed * Time.deltaTime;
-
-        //animator.StopPlayback();
+    void FixedUpdate()
+    {
+        Vector2 moveForce = PlayerInput * moveSpeed;
+        moveForce += forceToApply;
+        forceToApply /= forceDamping;
+        if (Mathf.Abs(forceToApply.x) <= 0.01f && Mathf.Abs(forceToApply.y) <= 0.01f)
+        {
+            forceToApply = Vector2.zero;
+        }
+        rb.velocity = moveForce;
     }
 
     public enum MoveDirection
