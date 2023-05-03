@@ -1,5 +1,6 @@
 using System.Collections;
 using System.Collections.Generic;
+using UnityEditor;
 using UnityEngine;
 
 public class WinGem : MonoBehaviour
@@ -14,6 +15,11 @@ public class WinGem : MonoBehaviour
     void Update()
     {
         
+    }
+
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        EditorApplication.isPlaying = false;
     }
 
 }
