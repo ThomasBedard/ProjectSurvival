@@ -12840,6 +12840,10 @@ GameObject:
   - component: {fileID: 1907186314}
   - component: {fileID: 1907186313}
   - component: {fileID: 1907186312}
+<<<<<<< HEAD
+=======
+  - component: {fileID: 1907186315}
+>>>>>>> parent of 3de271b (Camera Follower)
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -13010,6 +13014,7 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!114 &1907186316
 MonoBehaviour:
@@ -13219,3 +13224,5 @@ PrefabInstance:
 >>>>>>> parent of 3de271b (Camera Follower)
 =======
 >>>>>>> parent of 59f0af1 (Script + music)
+=======
+>>>>>>> parent of 3de271b (Camera Follower)
