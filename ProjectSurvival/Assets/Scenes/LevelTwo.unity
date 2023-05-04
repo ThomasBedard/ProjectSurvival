@@ -3073,6 +3073,7 @@ Transform:
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 --- !u!82 &1638897888
 AudioSource:
@@ -3423,3 +3424,5 @@ RectTransform:
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
 >>>>>>> parent of 3de271b (Camera Follower)
+=======
+>>>>>>> parent of 8b07f13 (added characters)
