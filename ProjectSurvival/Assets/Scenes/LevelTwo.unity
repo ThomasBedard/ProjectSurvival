@@ -2996,9 +2996,12 @@ GameObject:
   - component: {fileID: 1638897886}
   - component: {fileID: 1638897885}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   - component: {fileID: 1638897888}
 >>>>>>> parent of 3de271b (Camera Follower)
+=======
+>>>>>>> parent of 59f0af1 (Script + music)
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -3072,6 +3075,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -3171,6 +3175,8 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+=======
+>>>>>>> parent of 59f0af1 (Script + music)
 --- !u!1 &1686839248
 GameObject:
   m_ObjectHideFlags: 0

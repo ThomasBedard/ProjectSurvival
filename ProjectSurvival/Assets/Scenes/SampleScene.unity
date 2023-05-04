@@ -13191,6 +13191,7 @@ GameObject:
   - component: {fileID: 1907186313}
   - component: {fileID: 1907186312}
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   - component: {fileID: 1907186315}
 >>>>>>> parent of 3de271b (Camera Follower)
@@ -13199,6 +13200,8 @@ GameObject:
   - component: {fileID: 519420031}
   - component: {fileID: 519420029}
 >>>>>>> parent of 72f9473 (Project)
+=======
+>>>>>>> parent of 59f0af1 (Script + music)
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -13283,6 +13286,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!82 &1907186315
@@ -13671,3 +13675,5 @@ PrefabInstance:
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 >>>>>>> parent of 72f9473 (Project)
+=======
+>>>>>>> parent of 59f0af1 (Script + music)
