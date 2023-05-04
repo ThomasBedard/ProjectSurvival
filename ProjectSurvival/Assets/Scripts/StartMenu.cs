@@ -24,18 +24,6 @@ public class StartMenu : MonoBehaviour
     void Update()
     {
 
-        if (Input.GetKeyDown(KeyCode.Escape))
-        {
-            if (isStopped)
-            {
-               StartGame();
-            }
-            else
-            {
-              PauseMe();
-            }
-        }
-        // startButton.onClick.AddListener(StartGame());
     }
 
     public void PauseMe()
