@@ -14,10 +14,10 @@ public class MoveCharacter : MonoBehaviour
     //link for level 2 sprite sheet -> https://opengameart.org/content/sci-fi-interior-tiles
     Animator animator; //to talk to the animator
     public Rigidbody2D rb;
-    public float moveSpeed;
+    public float moveSpeed = 7f;
     public Vector2 forceToApply;
     public Vector2 PlayerInput;
-    public float forceDamping;
+    public float forceDamping = 1.2f;
 
     // Start is called before the first frame update
     void Start()
@@ -42,8 +42,9 @@ public class MoveCharacter : MonoBehaviour
         forceToApply /= forceDamping;
         if (Mathf.Abs(forceToApply.x) <= 0.01f && Mathf.Abs(forceToApply.y) <= 0.01f)
         {
-            forceToApply = Vector2.zero;
+            forceToApply = Vector2.zero;  
         }
+      
         rb.velocity = moveForce;
     }
 

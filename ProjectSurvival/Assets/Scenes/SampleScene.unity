@@ -881,6 +881,11 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 0
   m_Constraints: 0
+--- !u!1 &568692396 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 2648288805141765742, guid: 0436c231cda3c0043a2de33083d07813, type: 3}
+  m_PrefabInstance: {fileID: 1714356041211345136}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &587034756
 GameObject:
   m_ObjectHideFlags: 0
@@ -14130,6 +14135,7 @@ TilemapCollider2D:
   m_Offset: {x: 0, y: 0}
   m_MaximumTileChangeCount: 1000
   m_ExtrusionFactor: 0
+<<<<<<< Updated upstream
 --- !u!1 &1532119059
 GameObject:
   m_ObjectHideFlags: 0
@@ -14470,6 +14476,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1647235582}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> Stashed changes
 --- !u!1 &1877142690
 GameObject:
   m_ObjectHideFlags: 0
@@ -14758,6 +14766,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 302bdf4bda433a84a878470fb790546f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< Updated upstream
   player: {fileID: 1587371112}
 --- !u!1 &1971016383
 GameObject:
@@ -14881,3 +14890,71 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1971016383}
   m_CullTransparentMesh: 1
+=======
+  player: {fileID: 568692396}
+--- !u!1001 &1714356041211345136
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 2648288805141765742, guid: 0436c231cda3c0043a2de33083d07813, type: 3}
+      propertyPath: m_Name
+      value: player 1_0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044195179809600974, guid: 0436c231cda3c0043a2de33083d07813, type: 3}
+      propertyPath: m_RootOrder
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044195179809600974, guid: 0436c231cda3c0043a2de33083d07813, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044195179809600974, guid: 0436c231cda3c0043a2de33083d07813, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 5
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044195179809600974, guid: 0436c231cda3c0043a2de33083d07813, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044195179809600974, guid: 0436c231cda3c0043a2de33083d07813, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044195179809600974, guid: 0436c231cda3c0043a2de33083d07813, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044195179809600974, guid: 0436c231cda3c0043a2de33083d07813, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044195179809600974, guid: 0436c231cda3c0043a2de33083d07813, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044195179809600974, guid: 0436c231cda3c0043a2de33083d07813, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044195179809600974, guid: 0436c231cda3c0043a2de33083d07813, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044195179809600974, guid: 0436c231cda3c0043a2de33083d07813, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044195179809600974, guid: 0436c231cda3c0043a2de33083d07813, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6044195179809600974, guid: 0436c231cda3c0043a2de33083d07813, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: 0436c231cda3c0043a2de33083d07813, type: 3}
+>>>>>>> Stashed changes
