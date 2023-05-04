@@ -743,6 +743,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 239044882}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 --- !u!1 &353786997
 GameObject:
   m_ObjectHideFlags: 0
@@ -891,6 +892,8 @@ GameObject:
   m_PrefabAsset: {fileID: 0}
 =======
 >>>>>>> parent of 30c51ea (Doing the Start menu)
+=======
+>>>>>>> parent of 8b84466 (Commit)
 --- !u!1 &587034756
 GameObject:
   m_ObjectHideFlags: 0
@@ -13023,7 +13026,6 @@ GameObject:
   - component: {fileID: 1877142691}
   - component: {fileID: 1877142693}
   - component: {fileID: 1877142692}
-  - component: {fileID: 1877142694}
   m_Layer: 5
   m_Name: Background
   m_TagString: Untagged
@@ -13091,6 +13093,7 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1877142690}
   m_CullTransparentMesh: 1
+<<<<<<< HEAD
 --- !u!95 &1877142694
 Animator:
   serializedVersion: 5
@@ -13113,6 +13116,8 @@ Animator:
   m_KeepAnimatorStateOnDisable: 0
 =======
 >>>>>>> parent of 30c51ea (Doing the Start menu)
+=======
+>>>>>>> parent of 8b84466 (Commit)
 --- !u!1 &1907186311
 GameObject:
   m_ObjectHideFlags: 0
