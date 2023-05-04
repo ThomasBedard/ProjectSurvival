@@ -11449,8 +11449,6 @@ GameObject:
   - component: {fileID: 955201383}
   - component: {fileID: 955201382}
   - component: {fileID: 955201381}
-  - component: {fileID: 955201384}
-  - component: {fileID: 955201385}
   m_Layer: 0
   m_Name: gem_0
   m_TagString: Untagged
@@ -11553,6 +11551,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 --- !u!60 &955201384
@@ -11735,6 +11734,8 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1008764920}
   m_CullTransparentMesh: 1
+=======
+>>>>>>> parent of 9dba61a (Added scene and when player get gem)
 --- !u!1 &1046697339
 GameObject:
   m_ObjectHideFlags: 0
