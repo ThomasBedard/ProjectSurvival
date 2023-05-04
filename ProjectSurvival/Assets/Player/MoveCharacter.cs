@@ -11,6 +11,7 @@ public class MoveCharacter : MonoBehaviour
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     //link for level 1 sprite sheet -> https://opengameart.org/content/outdoor-tiles-again
     //link for tree -> https://opengameart.org/content/gnarled-tree
     //link for level 2 sprite sheet -> https://opengameart.org/content/sci-fi-interior-tiles
@@ -22,6 +23,10 @@ public class MoveCharacter : MonoBehaviour
 =======
     //link for tiles -> https://opengameart.org/content/outdoor-tiles-again
 >>>>>>> parent of 30c51ea (Doing the Start menu)
+=======
+    //link for tiles -> https://opengameart.org/content/outdoor-tiles-again
+    //link for tree -> https://opengameart.org/content/gnarled-tree
+>>>>>>> parent of 77663a1 (Link)
     Animator animator; //to talk to the animator
 <<<<<<< HEAD
     public Rigidbody2D rb;
