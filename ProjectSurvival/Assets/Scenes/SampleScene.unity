@@ -12841,7 +12841,6 @@ GameObject:
   - component: {fileID: 1907186313}
   - component: {fileID: 1907186312}
   - component: {fileID: 1907186315}
-  - component: {fileID: 1907186316}
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -13011,6 +13010,7 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 --- !u!114 &1907186316
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -13215,3 +13215,5 @@ PrefabInstance:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 0436c231cda3c0043a2de33083d07813, type: 3}
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 3de271b (Camera Follower)
