@@ -124,6 +124,7 @@ NavMeshSettings:
       m_Flags: 0
   m_NavMeshData: {fileID: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
 --- !u!1 &12099842
 GameObject:
   m_ObjectHideFlags: 0
@@ -11114,6 +11115,9 @@ TilemapCollider2D:
   m_MaximumTileChangeCount: 1000
   m_ExtrusionFactor: 0
 --- !u!1 &941616830
+=======
+--- !u!1 &955201380
+>>>>>>> parent of 22564a0 (Background + tiles)
 GameObject:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -11352,13 +11356,18 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 955201380}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+<<<<<<< HEAD
   m_LocalPosition: {x: -7.67, y: -2.2, z: 0}
+=======
+  m_LocalPosition: {x: -3.1597, y: 0.2015, z: 0}
+>>>>>>> parent of 22564a0 (Background + tiles)
   m_LocalScale: {x: 2.1097274, y: 2.191901, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 2
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!60 &955201384
 PolygonCollider2D:
   m_ObjectHideFlags: 0
@@ -12431,6 +12440,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+=======
+>>>>>>> parent of 22564a0 (Background + tiles)
 --- !u!1 &1587371112
 GameObject:
   m_ObjectHideFlags: 0
