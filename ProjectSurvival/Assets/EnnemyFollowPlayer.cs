@@ -1,10 +1,10 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using static UnityEngine.GraphicsBuffer;
 
 public class EnemyFollowPlayer : MonoBehaviour
 {
+<<<<<<< HEAD
     private Transform player;
 
     private Rigidbody2D rb2d;
@@ -21,11 +21,18 @@ public class EnemyFollowPlayer : MonoBehaviour
         rb2d = GetComponent<Rigidbody2D>();
         player = GameObject.Find("player_0").transform;
         previousPosition = player.transform.position;
+=======
+    // Start is called before the first frame update
+    void Start()
+    {
+        
+>>>>>>> parent of 866d445 (Cat ennemy)
     }
 
     // Update is called once per frame
     void Update()
     {
+<<<<<<< HEAD
         if (player.position != previousPosition)
         {
             if (player)
@@ -49,5 +56,8 @@ public class EnemyFollowPlayer : MonoBehaviour
     IEnumerator wait()
     {
         yield return new WaitForSecondsRealtime(3);
+=======
+        
+>>>>>>> parent of 866d445 (Cat ennemy)
     }
 }

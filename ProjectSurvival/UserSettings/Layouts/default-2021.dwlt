@@ -27,12 +27,16 @@ MonoBehaviour:
 >>>>>>> parent of 72f9473 (Project)
 =======
     x: 0
-    y: 42.666668
-    width: 1280
-    height: 629.3334
+    y: 43
+    width: 1920
+    height: 997
   m_ShowMode: 4
+<<<<<<< HEAD
   m_Title: Scene
 >>>>>>> parent of b62ffea (terrain collision)
+=======
+  m_Title: Project
+>>>>>>> parent of 866d445 (Cat ennemy)
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -57,6 +61,7 @@ MonoBehaviour:
     x: 0
     y: 30
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1206
     height: 665
   m_MinSize: {x: 679, y: 492}
@@ -75,6 +80,14 @@ MonoBehaviour:
   vertical: 0
   controlID: 83
 >>>>>>> parent of b62ffea (terrain collision)
+=======
+    width: 1920
+    height: 947
+  m_MinSize: {x: 300, y: 200}
+  m_MaxSize: {x: 24288, y: 16192}
+  vertical: 0
+  controlID: 90
+>>>>>>> parent of 866d445 (Cat ennemy)
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -91,6 +104,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 921
     y: 0
     width: 285
@@ -101,6 +115,12 @@ MonoBehaviour:
     width: 302
     height: 579.3333
 >>>>>>> parent of b62ffea (terrain collision)
+=======
+    x: 1467
+    y: 0
+    width: 453
+    height: 947
+>>>>>>> parent of 866d445 (Cat ennemy)
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
@@ -126,12 +146,17 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 228
     height: 394
 =======
     width: 242
     height: 343.33334
 >>>>>>> parent of b62ffea (terrain collision)
+=======
+    width: 363
+    height: 561
+>>>>>>> parent of 866d445 (Cat ennemy)
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
@@ -156,6 +181,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 394
     width: 921
     height: 271
@@ -164,6 +190,11 @@ MonoBehaviour:
     width: 978
     height: 235.99997
 >>>>>>> parent of b62ffea (terrain collision)
+=======
+    y: 561
+    width: 1467
+    height: 386
+>>>>>>> parent of 866d445 (Cat ennemy)
   m_MinSize: {x: 231, y: 271}
   m_MaxSize: {x: 10001, y: 10021}
   m_ActualView: {fileID: 12}
@@ -193,12 +224,17 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1206
     height: 715
 =======
     width: 1280
     height: 629.3333
 >>>>>>> parent of b62ffea (terrain collision)
+=======
+    width: 1920
+    height: 997
+>>>>>>> parent of 866d445 (Cat ennemy)
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &7
@@ -219,10 +255,14 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1206
 =======
     width: 1280
 >>>>>>> parent of b62ffea (terrain collision)
+=======
+    width: 1920
+>>>>>>> parent of 866d445 (Cat ennemy)
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -245,12 +285,17 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     y: 695
     width: 1206
 =======
     y: 609.3333
     width: 1280
 >>>>>>> parent of b62ffea (terrain collision)
+=======
+    y: 977
+    width: 1920
+>>>>>>> parent of 866d445 (Cat ennemy)
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -274,6 +319,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 921
     height: 665
   m_MinSize: {x: 403, y: 492}
@@ -292,6 +338,14 @@ MonoBehaviour:
   vertical: 1
   controlID: 84
 >>>>>>> parent of b62ffea (terrain collision)
+=======
+    width: 1467
+    height: 947
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 16192, y: 16192}
+  vertical: 1
+  controlID: 91
+>>>>>>> parent of 866d445 (Cat ennemy)
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -312,6 +366,7 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 921
     height: 394
   m_MinSize: {x: 403, y: 221}
@@ -330,6 +385,14 @@ MonoBehaviour:
   vertical: 0
   controlID: 85
 >>>>>>> parent of b62ffea (terrain collision)
+=======
+    width: 1467
+    height: 561
+  m_MinSize: {x: 200, y: 100}
+  m_MaxSize: {x: 16192, y: 8096}
+  vertical: 0
+  controlID: 92
+>>>>>>> parent of 866d445 (Cat ennemy)
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -341,7 +404,11 @@ MonoBehaviour:
   m_EditorHideFlags: 1
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Name: GameView
+=======
+  m_Name: SceneView
+>>>>>>> parent of 866d445 (Cat ennemy)
   m_EditorClassIdentifier: 
 =======
   m_Name:
@@ -350,6 +417,7 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
     x: 228
     y: 0
@@ -368,18 +436,32 @@ MonoBehaviour:
 =======
   m_ActualView: {fileID: 15}
 >>>>>>> parent of 72f9473 (Project)
+=======
+    x: 363
+    y: 0
+    width: 1104
+    height: 561
+  m_MinSize: {x: 202, y: 221}
+  m_MaxSize: {x: 4002, y: 4021}
+  m_ActualView: {fileID: 16}
+>>>>>>> parent of 866d445 (Cat ennemy)
   m_Panes:
   - {fileID: 15}
   - {fileID: 16}
 <<<<<<< HEAD
   - {fileID: 17}
   - {fileID: 12}
+<<<<<<< HEAD
   m_Selected: 1
   m_LastSelected: 2
 =======
   m_Selected: 0
   m_LastSelected: 1
 >>>>>>> parent of 72f9473 (Project)
+=======
+  m_Selected: 0
+  m_LastSelected: 1
+>>>>>>> parent of 866d445 (Cat ennemy)
 --- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -397,7 +479,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Animator
-    m_Image: {fileID: 1711060831702674872, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: -1673928668082335149, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
@@ -413,16 +495,15 @@ MonoBehaviour:
     m_KeySerializationHelper:
     - {fileID: -2061417109328402068, guid: 6a69531147c62024f9c111115ff53dd4, type: 2}
     - {fileID: 7620562947159937881, guid: 7dadd6e9c7a0ef84fa82d7ce321d8639, type: 2}
-    - {fileID: 8738314491339850718, guid: f7f934a3fbc18b74b85dcafd4fcbccc1, type: 2}
     m_ValueSerializationHelper:
-    - e00: 0.5380471
+    - e00: 0.30265138
       e01: 0
       e02: 0
-      e03: -17.282806
+      e03: 90.66513
       e10: 0
-      e11: 0.5380471
+      e11: 0.30265138
       e12: 0
-      e13: 74.41079
+      e13: 150.20667
       e20: 0
       e21: 0
       e22: 1
@@ -447,26 +528,10 @@ MonoBehaviour:
       e31: 0
       e32: 0
       e33: 1
-    - e00: 0.6266666
-      e01: 0
-      e02: 0
-      e03: -47.666656
-      e10: 0
-      e11: 0.6266666
-      e12: 0
-      e13: 85.26668
-      e20: 0
-      e21: 0
-      e22: 1
-      e23: 0
-      e30: 0
-      e31: 0
-      e32: 0
-      e33: 1
   m_PreviewAnimator: {fileID: 0}
-  m_AnimatorController: {fileID: 9100000, guid: f7f934a3fbc18b74b85dcafd4fcbccc1, type: 2}
+  m_AnimatorController: {fileID: 9100000, guid: 6a69531147c62024f9c111115ff53dd4, type: 2}
   m_BreadCrumbs:
-  - m_Target: {fileID: 8738314491339850718, guid: f7f934a3fbc18b74b85dcafd4fcbccc1, type: 2}
+  - m_Target: {fileID: -2061417109328402068, guid: 6a69531147c62024f9c111115ff53dd4, type: 2}
     m_ScrollPosition: {x: 0, y: 0}
   stateMachineGraph: {fileID: 0}
   stateMachineGraphGUI: {fileID: 0}
@@ -498,6 +563,7 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Project
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip:
   m_Pos:
@@ -508,14 +574,23 @@ MonoBehaviour:
     height: 250
 =======
     m_Image: {fileID: -5179483145760003458, guid: 0000000000000000d000000000000000, type: 0}
+=======
+    m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000, type: 0}
+>>>>>>> parent of 866d445 (Cat ennemy)
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 416
     width: 977
     height: 214.99997
 >>>>>>> parent of b62ffea (terrain collision)
+=======
+    y: 634
+    width: 1466
+    height: 365
+>>>>>>> parent of 866d445 (Cat ennemy)
   m_ViewDataDictionary: {fileID: 0}
   m_SearchFilter:
     m_NameFilter:
@@ -531,14 +606,19 @@ MonoBehaviour:
     m_SearchArea: 1
     m_Folders:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets
 =======
     - Assets/Player
 >>>>>>> parent of b62ffea (terrain collision)
+=======
+    - Assets/Scenes
+>>>>>>> parent of 866d445 (Cat ennemy)
     m_Globs: []
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
+<<<<<<< HEAD
 <<<<<<< HEAD
   - Assets
 <<<<<<< HEAD
@@ -553,10 +633,16 @@ MonoBehaviour:
   m_LastFoldersGridSize: 60
   m_LastProjectPath: C:\Users\henna\Documents\Unity\ProjectSurvival-main\ProjectSurvival
 >>>>>>> parent of b62ffea (terrain collision)
+=======
+  - Assets/Scenes
+  m_LastFoldersGridSize: 60
+  m_LastProjectPath: C:\Users\billm\ProjectSurvival\ProjectSurvival
+>>>>>>> parent of 866d445 (Cat ennemy)
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     m_SelectedIDs: 28620000
@@ -567,20 +653,25 @@ MonoBehaviour:
     m_LastClickedID: 24602
     m_ExpandedIDs: 000000001260000000ca9a3b
 >>>>>>> parent of b62ffea (terrain collision)
+=======
+    m_SelectedIDs: 729b0000
+    m_LastClickedID: 39794
+    m_ExpandedIDs: 000000006a9b000000ca9a3b
+>>>>>>> parent of 866d445 (Cat ennemy)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: Diamonds
-      m_OriginalName: Diamonds
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
         y: 0
         width: 0
         height: 0
-      m_UserData: 25134
+      m_UserData: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_ClientGUIView: {fileID: 5}
     m_SearchString: 
@@ -595,10 +686,14 @@ MonoBehaviour:
     m_SelectedIDs: 
     m_LastClickedID: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ExpandedIDs: 0000000028620000
 =======
     m_ExpandedIDs: 0000000012600000
 >>>>>>> parent of b62ffea (terrain collision)
+=======
+    m_ExpandedIDs: 
+>>>>>>> parent of 866d445 (Cat ennemy)
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -688,7 +783,11 @@ MonoBehaviour:
       m_ResourceFile:
     m_NewAssetIndexInList: -1
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_ScrollPosition: {x: 0, y: 31.00003}
+=======
+    m_ScrollPosition: {x: 0, y: 0}
+>>>>>>> parent of 866d445 (Cat ennemy)
     m_GridSize: 60
 =======
     m_ScrollPosition: {x: 0, y: 0}
@@ -713,6 +812,7 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Inspector
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Image: {fileID: -2667387946076563598, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip:
   m_Pos:
@@ -731,6 +831,16 @@ MonoBehaviour:
     width: 301
     height: 558.3333
 >>>>>>> parent of b62ffea (terrain collision)
+=======
+    m_Image: {fileID: -2667387946076563598, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 1467
+    y: 73
+    width: 452
+    height: 926
+>>>>>>> parent of 866d445 (Cat ennemy)
   m_ViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization:
@@ -762,6 +872,7 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Hierarchy
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip:
   m_Pos:
@@ -772,18 +883,28 @@ MonoBehaviour:
     height: 373
 =======
     m_Image: {fileID: -3734745235275155857, guid: 0000000000000000d000000000000000, type: 0}
+=======
+    m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000, type: 0}
+>>>>>>> parent of 866d445 (Cat ennemy)
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 72.66667
     width: 241
     height: 322.33334
 >>>>>>> parent of b62ffea (terrain collision)
+=======
+    y: 73
+    width: 362
+    height: 540
+>>>>>>> parent of 866d445 (Cat ennemy)
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
       m_SelectedIDs:
       m_LastClickedID: 0
@@ -805,16 +926,25 @@ MonoBehaviour:
         m_Name:
         m_OriginalName:
 >>>>>>> parent of 72f9473 (Project)
+=======
+      m_SelectedIDs: 9caa0000
+      m_LastClickedID: 0
+      m_ExpandedIDs: 20aafffff0bfffffd6c1ffff8aaf0000
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: 
+        m_OriginalName: 
+>>>>>>> parent of 866d445 (Cat ennemy)
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
           y: 0
           width: 0
           height: 0
-        m_UserData: -4538
+        m_UserData: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_ClientGUIView: {fileID: 0}
       m_SearchString:
@@ -841,6 +971,7 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Scene
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Image: {fileID: 2593428753322112591, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip:
   m_Pos:
@@ -853,13 +984,16 @@ MonoBehaviour:
   m_ShowContextualTools: 0
 =======
     m_Image: {fileID: 8634526014445323508, guid: 0000000000000000d000000000000000, type: 0}
+=======
+    m_Image: {fileID: 2593428753322112591, guid: 0000000000000000d000000000000000, type: 0}
+>>>>>>> parent of 866d445 (Cat ennemy)
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-    x: 242
-    y: 72.66667
-    width: 734
-    height: 322.33334
+    x: 363
+    y: 73
+    width: 1102
+    height: 540
   m_ViewDataDictionary: {fileID: 0}
   m_OverlayCanvas:
     m_LastAppliedPresetName: Default
@@ -870,7 +1004,7 @@ MonoBehaviour:
       collapsed: 0
       displayed: 1
       snapOffset: {x: 0, y: 0}
-      snapOffsetDelta: {x: -98.66669, y: -26}
+      snapOffsetDelta: {x: -101, y: -26}
       snapCorner: 3
       id: Tool Settings
       index: 0
@@ -1119,6 +1253,7 @@ MonoBehaviour:
   m_Position:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: -0.0014077278, y: -0.25831804, z: -0.0031251712}
     speed: 2
     m_Value: {x: -0.0014077278, y: -0.25831804, z: -0.0031251712}
@@ -1132,6 +1267,11 @@ MonoBehaviour:
     speed: 2
     m_Value: {x: -1.5323254, y: 0.3246494, z: 0.0024745935}
 >>>>>>> parent of b62ffea (terrain collision)
+=======
+    m_Target: {x: 0.6902679, y: 0.36923492, z: 0.0017910085}
+    speed: 2
+    m_Value: {x: 0.6902679, y: 0.36923492, z: 0.0017910085}
+>>>>>>> parent of 866d445 (Cat ennemy)
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1183,11 +1323,19 @@ MonoBehaviour:
   m_Size:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: 1.178541
     speed: 2
     m_Value: 1.178541
 =======
     m_Target: 10
+=======
+    m_Target: 5.9362
+    speed: 2
+    m_Value: 5.9362
+  m_Ortho:
+    m_Target: 1
+>>>>>>> parent of 866d445 (Cat ennemy)
     speed: 2
     m_Value: 10
 >>>>>>> parent of 72f9473 (Project)
@@ -1237,6 +1385,7 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Game
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Image: {fileID: -6423792434712278376, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip:
   m_Pos:
@@ -1255,6 +1404,16 @@ MonoBehaviour:
     width: 734
     height: 322.33334
 >>>>>>> parent of b62ffea (terrain collision)
+=======
+    m_Image: {fileID: -6423792434712278376, guid: 0000000000000000d000000000000000, type: 0}
+    m_Tooltip: 
+  m_Pos:
+    serializedVersion: 2
+    x: 363
+    y: 73
+    width: 1102
+    height: 540
+>>>>>>> parent of 866d445 (Cat ennemy)
   m_ViewDataDictionary: {fileID: 0}
   m_SerializedViewsNames: []
   m_SerializedViewsValues: []
@@ -1263,10 +1422,14 @@ MonoBehaviour:
   m_TargetDisplay: 0
   m_ClearColor: {r: 0, g: 0, b: 0, a: 0}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_TargetSize: {x: 640, y: 480}
 =======
   m_TargetSize: {x: 734, y: 301.33334}
 >>>>>>> parent of b62ffea (terrain collision)
+=======
+  m_TargetSize: {x: 1102, y: 519}
+>>>>>>> parent of 866d445 (Cat ennemy)
   m_TextureFilterMode: 0
   m_TextureHideFlags: 61
   m_RenderIMGUI: 0
@@ -1282,6 +1445,7 @@ MonoBehaviour:
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HBaseRangeMin: -766
     m_HBaseRangeMax: 766
     m_VBaseRangeMin: -395
@@ -1292,6 +1456,12 @@ MonoBehaviour:
     m_VBaseRangeMin: -100.44445
     m_VBaseRangeMax: 100.44445
 >>>>>>> parent of b62ffea (terrain collision)
+=======
+    m_HBaseRangeMin: -551
+    m_HBaseRangeMax: 551
+    m_VBaseRangeMin: -259.5
+    m_VBaseRangeMax: 259.5
+>>>>>>> parent of 866d445 (Cat ennemy)
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1300,7 +1470,7 @@ MonoBehaviour:
     m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
     m_UniformScale: 1
@@ -1316,17 +1486,22 @@ MonoBehaviour:
     m_Translation: {x: 766, y: 395}
 =======
       y: 21
-      width: 734
-      height: 301.33334
+      width: 1102
+      height: 519
     m_Scale: {x: 1, y: 1}
+<<<<<<< HEAD
     m_Translation: {x: 367, y: 150.66667}
 >>>>>>> parent of b62ffea (terrain collision)
+=======
+    m_Translation: {x: 551, y: 259.5}
+>>>>>>> parent of 866d445 (Cat ennemy)
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
       x: -766
       y: -395
@@ -1344,6 +1519,15 @@ MonoBehaviour:
   m_defaultScale: 1
   m_LastWindowPixelSize: {x: 1101, y: 483.5}
 >>>>>>> parent of b62ffea (terrain collision)
+=======
+      x: -551
+      y: -259.5
+      width: 1102
+      height: 519
+    m_MinimalGUI: 1
+  m_defaultScale: 1
+  m_LastWindowPixelSize: {x: 1102, y: 540}
+>>>>>>> parent of 866d445 (Cat ennemy)
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000000000000
@@ -1366,10 +1550,14 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Console
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Image: {fileID: -4327648978806127646, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip:
 =======
     m_Image: {fileID: -4950941429401207979, guid: 0000000000000000d000000000000000, type: 0}
+=======
+    m_Image: {fileID: -4327648978806127646, guid: 0000000000000000d000000000000000, type: 0}
+>>>>>>> parent of 866d445 (Cat ennemy)
     m_Tooltip: 
 >>>>>>> parent of b62ffea (terrain collision)
   m_Pos:
