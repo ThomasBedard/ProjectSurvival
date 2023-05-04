@@ -33,7 +33,11 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: down
+<<<<<<< HEAD
   m_Speed: 0.5
+=======
+  m_Speed: 0.7
+>>>>>>> parent of 30c51ea (Doing the Start menu)
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: 3179260737717286790}
@@ -62,7 +66,11 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: up
+<<<<<<< HEAD
   m_Speed: 0.5
+=======
+  m_Speed: 0.7
+>>>>>>> parent of 30c51ea (Doing the Start menu)
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: 383486298440147576}
@@ -350,7 +358,11 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: left
+<<<<<<< HEAD
   m_Speed: 0.5
+=======
+  m_Speed: 0.7
+>>>>>>> parent of 30c51ea (Doing the Start menu)
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: 4151991611026207537}
@@ -454,7 +466,11 @@ AnimatorState:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: right
+<<<<<<< HEAD
   m_Speed: 0.5
+=======
+  m_Speed: 0.7
+>>>>>>> parent of 30c51ea (Doing the Start menu)
   m_CycleOffset: 0
   m_Transitions:
   - {fileID: 7741081815507608367}

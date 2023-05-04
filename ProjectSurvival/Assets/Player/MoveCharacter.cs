@@ -11,6 +11,7 @@ public class MoveCharacter : MonoBehaviour
     //link for gem -> https://www.deviantart.com/bigbark24/art/Diamond-sprite-sheet-759155287
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     //link for level 1 sprite sheet -> https://opengameart.org/content/outdoor-tiles-again
     //link for tree -> https://opengameart.org/content/gnarled-tree
     //link for level 2 sprite sheet -> https://opengameart.org/content/sci-fi-interior-tiles
@@ -19,6 +20,9 @@ public class MoveCharacter : MonoBehaviour
 =======
     //link for tiles -> https://cpictures.homes/grass-tile-game
 >>>>>>> parent of 72a1e76 (Adding a reference link)
+=======
+    //link for tiles -> https://opengameart.org/content/outdoor-tiles-again
+>>>>>>> parent of 30c51ea (Doing the Start menu)
     Animator animator; //to talk to the animator
     public Rigidbody2D rb;
     public float moveSpeed = 7f;
