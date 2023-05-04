@@ -11642,10 +11642,14 @@ Transform:
   m_GameObject: {fileID: 955201380}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LocalPosition: {x: -7.67, y: -2.2, z: 0}
 =======
   m_LocalPosition: {x: -3.1597, y: 0.2015, z: 0}
 >>>>>>> parent of 22564a0 (Background + tiles)
+=======
+  m_LocalPosition: {x: -6.7, y: -4.21, z: 0}
+>>>>>>> parent of 88bfa2d (Created player speed public variable)
   m_LocalScale: {x: 2.1097274, y: 2.191901, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -12912,6 +12916,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
+<<<<<<< HEAD
   rb: {fileID: 1587371118}
   moveSpeed: 10
   forceToApply: {x: 10, y: 10}
@@ -13101,6 +13106,8 @@ CanvasRenderer:
   m_CullTransparentMesh: 1
 =======
 >>>>>>> Stashed changes
+=======
+>>>>>>> parent of 88bfa2d (Created player speed public variable)
 --- !u!1 &1877142690
 GameObject:
   m_ObjectHideFlags: 0

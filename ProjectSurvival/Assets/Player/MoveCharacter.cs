@@ -1,6 +1,5 @@
 using System.Collections;
 using System.Collections.Generic;
-using UnityEditor;
 using UnityEngine;
 //using UnityEngine.Windows;
 //using UnityEngine.Windows;
@@ -24,11 +23,14 @@ public class MoveCharacter : MonoBehaviour
     //link for tiles -> https://opengameart.org/content/outdoor-tiles-again
 >>>>>>> parent of 30c51ea (Doing the Start menu)
     Animator animator; //to talk to the animator
+<<<<<<< HEAD
     public Rigidbody2D rb;
     public float moveSpeed = 7f;
     public Vector2 forceToApply;
     public Vector2 PlayerInput;
     public float forceDamping = 1.2f;
+=======
+>>>>>>> parent of 88bfa2d (Created player speed public variable)
 
     // Start is called before the first frame update
     void Start()
@@ -46,6 +48,7 @@ public class MoveCharacter : MonoBehaviour
        
     }
 
+<<<<<<< HEAD
     void FixedUpdate()
     {
         Vector2 moveForce = PlayerInput * moveSpeed;
@@ -57,6 +60,11 @@ public class MoveCharacter : MonoBehaviour
         }
       
         rb.velocity = moveForce;
+=======
+        transform.position += new Vector3(val_x, val_y, 0).normalized * Time.deltaTime;
+
+        //animator.StopPlayback();
+>>>>>>> parent of 88bfa2d (Created player speed public variable)
     }
 
     public enum MoveDirection
