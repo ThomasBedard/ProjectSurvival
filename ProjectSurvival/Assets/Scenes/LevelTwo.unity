@@ -2999,9 +2999,12 @@ GameObject:
 <<<<<<< HEAD
 =======
   - component: {fileID: 1638897888}
+<<<<<<< HEAD
 >>>>>>> parent of 3de271b (Camera Follower)
 =======
 >>>>>>> parent of 59f0af1 (Script + music)
+=======
+>>>>>>> parent of 3de271b (Camera Follower)
   m_Layer: 0
   m_Name: Main Camera
   m_TagString: MainCamera
@@ -3175,8 +3178,11 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+<<<<<<< HEAD
 =======
 >>>>>>> parent of 59f0af1 (Script + music)
+=======
+>>>>>>> parent of 3de271b (Camera Follower)
 --- !u!1 &1686839248
 GameObject:
   m_ObjectHideFlags: 0
