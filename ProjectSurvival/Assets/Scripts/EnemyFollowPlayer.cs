@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using static UnityEngine.GraphicsBuffer;
 
-public class EnnemyFollowPlayer : MonoBehaviour
+public class EnemyFollowPlayer : MonoBehaviour
 {
     private Transform player;
 
