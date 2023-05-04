@@ -11,13 +11,11 @@ public class StartMenu : MonoBehaviour
     [SerializeField]
     private GameObject startCanvas;
 
-    
-
     private Button button;
     // Start is called before the first frame update
     void Start()
     {
-       startCanvas.SetActive(true);
+       
     }
 
     // Update is called once per frame
